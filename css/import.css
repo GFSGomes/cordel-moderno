@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Sriracha';
+    src: url('/media/fonts/Sriracha/Sriracha-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Passion One';
+    font-weight: normal;
+    src: url('../media/fonts/Passion_One/PassionOne-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Passion One';
+    font-weight: bold;
+    src: url('../media/fonts/Passion_One/PassionOne-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Passion One';
+    font-weight: bolder;
+    src: url('../media/fonts/Passion_One/PassionOne-Black.ttf');
+}
+
